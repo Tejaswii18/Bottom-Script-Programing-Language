@@ -1,0 +1,1 @@
+Hello! Welcome to BottomScript v0.2.0 file handling system. This is a lightweight programming language.
