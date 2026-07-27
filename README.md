@@ -11,5 +11,6 @@ To install in your System :-
 bsdt The BottomScript devlopment tool
 to run programs bsdt main.bs
 
+for Now It's only for Windows Downloadable.
 the extension is .bs.
 according to version distributed and will be distribute.
