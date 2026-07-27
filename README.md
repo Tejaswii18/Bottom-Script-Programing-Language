@@ -12,3 +12,4 @@ bsdt The BottomScript devlopment tool
 to run programs bsdt main.bs
 
 the extension is .bs.
+according to version distributed and will be distribute.
