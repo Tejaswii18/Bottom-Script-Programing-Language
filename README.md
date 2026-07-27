@@ -1,6 +1,6 @@
 # Bottom-Script-Programing-Language
 Officially Created By Kumar Tejaswi (Head of The Project)
-Not only Tejaswi has made the Bottomscript it's made by using Tejaswi's Team and also AI(to increase the speed of work).
+Not only Tejaswi has made the Bottomscript it's made by using Tejaswi's Team(vrodo) and also AI(to increase the speed of work).
 it's a programing language which orginally written in python.
 it will make the Automation and File handling easy easy
 
