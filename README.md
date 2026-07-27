@@ -6,7 +6,7 @@ it will make the Automation and File handling easy easy
 
 it depends on you what you are making with it.
 To install in your System :-
-  bottomscript.org
+  bottomscript.netlify.app
 
 bsdt The BottomScript devlopment tool
 to run programs bsdt main.bs
